@@ -1,6 +1,6 @@
 # lbs_backend
 
-branch - mayurbarbhaya:-
+branch - mayurbarbhaya:- app.py working successfully.
 currently all functionality implemented in app.py file including db_schema, serializers, adding data, routes, views[business_logic]
 
 branch - main:-
